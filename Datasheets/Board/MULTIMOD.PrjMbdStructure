@@ -1,0 +1,32 @@
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=AUDIO\AUDIO.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=AUDIO\AUDIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=BASE\BASE.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=BASE\BASE.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=6|Source=LEDS\LEDS.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=LEDS\LEDS.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=RADIO\RADIO.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=RADIO\RADIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=5|Source=SERVO\SERVO.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=SERVO\SERVO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-MULTIBOARD.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=SERVO\SERVO.PrjPcb
+Record=SubProject|SourceDocument=S00-MULTIBOARD.MbsDoc|ProjectPath=SERVO\SERVO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-BOARDS.MbsDoc|Kind=Multi-board Schematic Module|Designator=A3|Source=AUDIO\AUDIO.PrjPcb
+Record=SubProject|SourceDocument=S00-BOARDS.MbsDoc|ProjectPath=AUDIO\AUDIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-BOARDS.MbsDoc|Kind=Multi-board Schematic Module|Designator=A1|Source=BASE\BASE.PrjPcb
+Record=SubProject|SourceDocument=S00-BOARDS.MbsDoc|ProjectPath=BASE\BASE.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-BOARDS.MbsDoc|Kind=Multi-board Schematic Module|Designator=A5|Source=LEDS\LEDS.PrjPcb
+Record=SubProject|SourceDocument=S00-BOARDS.MbsDoc|ProjectPath=LEDS\LEDS.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-BOARDS.MbsDoc|Kind=Multi-board Schematic Module|Designator=A2|Source=RADIO\RADIO.PrjPcb
+Record=SubProject|SourceDocument=S00-BOARDS.MbsDoc|ProjectPath=RADIO\RADIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S00-BOARDS.MbsDoc|Kind=Multi-board Schematic Module|Designator=A4|Source=SERVO\SERVO.PrjPcb
+Record=SubProject|SourceDocument=S00-BOARDS.MbsDoc|ProjectPath=SERVO\SERVO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S01-WIRING.MbsDoc|Kind=Multi-board Schematic Module|Designator=A1|Source=AUDIO\AUDIO.PrjPcb
+Record=SubProject|SourceDocument=S01-WIRING.MbsDoc|ProjectPath=AUDIO\AUDIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S01-WIRING.MbsDoc|Kind=Multi-board Schematic Module|Designator=A2|Source=BASE\BASE.PrjPcb
+Record=SubProject|SourceDocument=S01-WIRING.MbsDoc|ProjectPath=BASE\BASE.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S01-WIRING.MbsDoc|Kind=Multi-board Schematic Module|Designator=A4|Source=LEDS\LEDS.PrjPcb
+Record=SubProject|SourceDocument=S01-WIRING.MbsDoc|ProjectPath=LEDS\LEDS.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S01-WIRING.MbsDoc|Kind=Multi-board Schematic Module|Designator=A5|Source=RADIO\RADIO.PrjPcb
+Record=SubProject|SourceDocument=S01-WIRING.MbsDoc|ProjectPath=RADIO\RADIO.PrjPcb
+Record=DiagramHierarchy|SourceDocument=S01-WIRING.MbsDoc|Kind=Multi-board Schematic Module|Designator=A3|Source=SERVO\SERVO.PrjPcb
+Record=SubProject|SourceDocument=S01-WIRING.MbsDoc|ProjectPath=SERVO\SERVO.PrjPcb

@@ -1,0 +1,15 @@
+Line #,Description,Designator,Quantity,Manufacturer,Part Number,Purchasing Link
+
+"1","CAP CER 1UF 25V X7R 0805","C1, C2","2","Samsung","CL21B105KAFNFNE","https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584"
+"2","LED GREEN CLEAR CHIP SMD","D1","1","Vishay Lite-On","LTST-C171GKT","https://www.digikey.com/en/products/detail/liteon/LTST-C171GKT/386793"
+"3","DIODE SCHOTTKY 30V 5A PMDS","D2, D4, D5, D7, D8","5","Rohm","RBR5L30BDDTE25","https://www.digikey.com/en/products/detail/rohm-semiconductor/RBR5L30BDDTE25/12359527"
+"4","CONN HEADER SMD 20POS 2.54MM","J1, J2, J5, J6, J7, J8, J9, J10, J11, J12, J15, J16","12","Amphenol ICC / FCI","95278-101-20LF","https://www.digikey.com/en/products/detail/amphenol-cs-fci/95278-101-20LF/1534964"
+"5","CONN HEADER SMD 46POS 2.54MM","J3, J4","2","Amphenol ICC / FCI","95278-101-46LF","https://www.digikey.com/en/products/detail/amphenol-cs-fci/95278-101-46LF/4267961"
+"6","CONN HDR 18POS 0.1 GOLD PCB R/A","J13","1","Sullins","PPPC092LJBN-RC","https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC092LJBN-RC/776020"
+"7","CONN HDR 11POS 0.1 GOLD PCB","J14","1","Sullins","PPPC111LFBN-RC","https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC111LFBN-RC/810183"
+"8","RES 2.2K OHM 1% 1/8W 0805","R1, R2, R3, R4","4","Yageo","RC0805FR-072K2L","https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676"
+"9","RES 10K OHM 1% 1/8W 0805","R5, R7","2","Yageo","RC0805FR-0710K(L)","https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535"
+"10","RES 330 OHM 1% 1/4W 0805","R6","1","Yageo","RC0805FR-7W330RL","https://www.digikey.com/en/products/detail/yageo/RC0805FR-7W330RL/12698865"
+"11","THUMBSTICK DUAL AXIS W/MOM PB","SW1","1","ITT C&K","THB001P","https://www.digikey.com/en/products/detail/c-k/THB001P/11687191"
+"12","IC BUF NON-INVERT 3.6V 20TSSOP","U1, U2","2","Nexperia","74LVC244APW,118","https://www.digikey.com/en/products/detail/nexperia-usa-inc/74LVC244APW-118/763187"
+"13","IC REG LINEAR 3.3V 1A SOT223-4","VR1","1","Texas Instruments","TLV1117LV33DCYR","https://www.digikey.com/en/products/detail/texas-instruments/TLV1117LV33DCYR/2666508"

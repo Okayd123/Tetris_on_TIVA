@@ -1,0 +1,13 @@
+Line #,Description,Designator,Quantity,Manufacturer,Part Number,Purchasing Link
+
+"1","CAP CER 1UF 25V X7R 0805","C1, C2","2","Samsung","CL21B105KAFNFNE","https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584"
+"2","LED BLUE CLEAR 2PLCC SMD","D00, D01, D02, D03, D04, D05, D06, D07, D08, D09, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19","20","SunLED","XZFBB45S-9","https://www.digikey.com/en/products/detail/sunled/XZFBB45S-9/4901947"
+"3","LED GREEN CLEAR CHIP SMD","D3","1","Vishay Lite-On","LTST-C171GKT","https://www.digikey.com/en/products/detail/liteon/LTST-C171GKT/386793"
+"4","CONN HDR 20POS 0.1 TIN SMD","J1, J2","2","Sullins","NPTC102KFMS-RC","https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPTC102KFMS-RC/776139"
+"5","RES 10K OHM 1% 1/8W 0805","R1","1","Yageo","RC0805FR-0710K(L)","https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535"
+"6","RES 330 OHM 1% 1/4W 0805","R2","1","Yageo","RC0805FR-7W330RL","https://www.digikey.com/en/products/detail/yageo/RC0805FR-7W330RL/12698865"
+"7","RES 2.87K OHM 1% 1/8W 0805","R7","1","Yageo","RC0805FR-072K87L","https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K87L/727714"
+"8","SWITCH TACTILE SPST-NO 0.05A 12V","SW1, SW2, SW3, SW4","4","E-Switch","TL9210AF260Q","https://www.digikey.com/en/products/detail/e-switch/TL9210AF260Q/4965616"
+"9","IC LED DRV LIN PWM 65MA 38HTSSOP","U1","1","NXP Semiconductors","PCA9956BTWY","https://www.digikey.com/en/products/detail/nxp-usa-inc/PCA9956BTWY/5361188"
+"10","IC XPND 400KHZ I2C SMBUS 24TSSOP","U2","1","NXP Semiconductors","PCA9555PW118","https://www.digikey.com/en/products/detail/nxp-usa-inc/PCA9555PW-118/735672"
+"11","IC REG LINEAR 3.3V 1A SOT223-4","VR1","1","Texas Instruments","TLV1117LV33DCYR","https://www.digikey.com/en/products/detail/texas-instruments/TLV1117LV33DCYR/2666508"

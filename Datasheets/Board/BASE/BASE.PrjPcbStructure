@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=S00-OVERVIEW.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S01-LAUNCHPAD.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S02-BEAGLEBONE.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S03-BEAGLEBONE.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S04-INTERFACES.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S05-INTERFACES.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S06-PERIPHERALS.SchDoc|SheetNumber=7

@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=S00-OVERVIEW.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S01-INTERFACES.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S02-POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S03-MICROPHONE.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=S00-OVERVIEW.SchDoc|FileName=S04-SPEAKER.SchDoc|SheetNumber=5

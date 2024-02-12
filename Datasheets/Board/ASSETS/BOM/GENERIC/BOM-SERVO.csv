@@ -1,0 +1,12 @@
+Line #,Description,Designator,Quantity,Manufacturer,Part Number,Purchasing Link
+
+"1","CAP CER 10UF 10V X7R 0805","C1","1","Samsung","CL21B106KPQNFNE","https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B106KPQNFNE/3888592"
+"2","CAP CER 1UF 25V X7R 0805","C2, C3","2","Samsung","CL21B105KAFNFNE","https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNFNE/3888584"
+"3","LED GREEN CLEAR CHIP SMD","D1, D2","2","Vishay Lite-On","LTST-C171GKT","https://www.digikey.com/en/products/detail/liteon/LTST-C171GKT/386793"
+"4","CONN HDR 20POS 0.1 TIN SMD","J1, J3, J4","3","Sullins","NPTC102KFMS-RC","https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPTC102KFMS-RC/776139"
+"5","CONN HEADER VERT 48POS 2.54MM","J2","1","Samtec","TSW-116-07-L-T","https://www.digikey.com/en/products/detail/samtec-inc/TSW-116-07-L-T/6693624"
+"6","RES ARRAY 8 RES 220 OHM 1506","R1, R2","2","Panasonic","EXB-2HV221JV","https://www.digikey.com/en/products/detail/panasonic-electronic-components/EXB-2HV221JV/285311"
+"7","RES 10K OHM 1% 1/8W 0805","R3","1","Yageo","RC0805FR-0710K(L)","https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535"
+"8","RES 330 OHM 1% 1/4W 0805","R4, R5","2","Yageo","RC0805FR-7W330RL","https://www.digikey.com/en/products/detail/yageo/RC0805FR-7W330RL/12698865"
+"9","IC LED DRVR LIN PWM 25MA 28TSSOP","U1","1","NXP Semiconductors","PCA9685PW-118","https://www.digikey.com/en/products/detail/nxp-usa-inc/PCA9685PW-118/2034325"
+"10","IC REG LINEAR 3.3V 1A SOT223-4","VR1","1","Texas Instruments","TLV1117LV33DCYR","https://www.digikey.com/en/products/detail/texas-instruments/TLV1117LV33DCYR/2666508"
